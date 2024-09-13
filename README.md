@@ -1,5 +1,4 @@
-# codsoft_task1
-internship task of codsoft
+
 
 Movie Genre Classification
 Welcome to the Movie Genre Classification repository! This project aims to classify movies into different genres using machine learning techniques. Below you'll find an overview of the project, installation instructions, usage guidelines, and more.
